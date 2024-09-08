@@ -15,3 +15,11 @@ Install Julia in 4 simple steps:
 7. Wait a minute and you should see somthing like this:
 ![alt text](source/julia-cmd.jpeg)
  **Now you have julia instaled in your machine**
+
+ ## Install typst 
+ 1. First you need to open the powershell
+ and then you type `winget install --id Typst.Typst`
+ 2. Now open vs-code and install typst-lsp extension
+  
+ 
+
