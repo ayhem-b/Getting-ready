@@ -13,3 +13,5 @@ Install Julia in 4 simple steps:
 5. Type `cmd` and hit **Enter**
 6. Type `julia` and hit **Enter**
 7. Wait a minute and you should see somthing like this:
+![alt text](source/julia-cmd.jpeg)
+ **Now you have julia instaled in your machine**
